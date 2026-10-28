@@ -1,5 +1,11 @@
 # 🌍 World News Globe
 
+### 👉 [**Open the live globe → shanem73.github.io/world-news-globe**](https://shanem73.github.io/world-news-globe/)
+
+**Designed by [ShaneM73](https://github.com/ShaneM73)**
+
+---
+
 Every day this repo automatically collects the world's biggest news stories of the last 24 hours and pins them on an interactive 3D globe.
 
 - **Bigger story → taller, brighter, faster-flashing marker.** Each story gets one of five impact levels (Major, High, Notable, Moderate, Minor), each with its own color, bar height and pulse ring.
