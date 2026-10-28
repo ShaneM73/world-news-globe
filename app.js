@@ -60,7 +60,7 @@
     .pointAltitude((d) => TIERS[d.tier].alt)
     .pointRadius((d) => TIERS[d.tier].radius)
     .pointColor((d) => (state.selected === d ? "#ffffff" : TIERS[d.tier].color))
-    .pointResolution(16)
+    .pointResolution(8)
     .pointsMerge(false)
     .pointsTransitionDuration(800)
     .pointLabel(
@@ -97,9 +97,24 @@
     })
     .onGlobeClick(() => closeDetail());
 
+  // Keep it smooth: cap pixel density (4K / Retina screens draw 4-9x more pixels)
+  globe.renderer().setPixelRatio(Math.min(window.devicePixelRatio || 1, 1.5));
+
   const controls = globe.controls();
   controls.autoRotate = true;
   controls.autoRotateSpeed = 0.45;
+  controls.enableDamping = true;
+  controls.dampingFactor = 0.15; // stops quickly after you let go, no floaty drift
+  controls.zoomSpeed = 1.2;
+
+  function setRotation(on) {
+    controls.autoRotate = on;
+    $("rotate").setAttribute("aria-pressed", String(on));
+    $("rotate-ico").textContent = on ? "❚❚" : "▶";
+    $("rotate-lbl").textContent = on ? "Pause" : "Spin";
+  }
+  // Grabbing the globe with the mouse / finger stops the spin so you stay in control
+  controls.addEventListener("start", () => setRotation(false));
   globe.pointOfView({ lat: 25, lng: 10, altitude: window.innerWidth < 760 ? 3.6 : 2.4 });
 
   const resize = () => globe.width(window.innerWidth).height(window.innerHeight);
@@ -119,7 +134,7 @@
   function render() {
     const list = visible();
     globe.pointsData(list);
-    globe.ringsData(list.filter((s) => s.tier >= 2));
+    globe.ringsData(list.filter((s) => s.tier >= 3));
     globe.htmlElementsData(list.filter((s) => s.tier >= 4));
     renderList(list);
     renderLegend();
@@ -178,8 +193,7 @@
     if (story.image) img.src = safeUrl(story.image);
     $("detail").hidden = false;
 
-    controls.autoRotate = false;
-    $("rotate").setAttribute("aria-pressed", "false");
+    setRotation(false);
     globe.pointOfView({ lat: story._lat, lng: story._lng, altitude: 1.5 }, 1200);
     globe.pointColor(globe.pointColor()); // refresh highlight
     renderList(visible());
@@ -255,9 +269,12 @@
     render();
   });
   $("close-detail").addEventListener("click", closeDetail);
-  $("rotate").addEventListener("click", () => {
-    controls.autoRotate = !controls.autoRotate;
-    $("rotate").setAttribute("aria-pressed", String(controls.autoRotate));
+  $("rotate").addEventListener("click", () => setRotation(!controls.autoRotate));
+  document.addEventListener("keydown", (e) => {
+    if (e.code === "Space" && !/INPUT|SELECT|TEXTAREA|BUTTON/.test(e.target.tagName)) {
+      e.preventDefault();
+      setRotation(!controls.autoRotate);
+    }
   });
   $("toggle-list").addEventListener("click", () => $("list-panel").classList.toggle("hidden"));
   document.addEventListener("keydown", (e) => e.key === "Escape" && closeDetail());
