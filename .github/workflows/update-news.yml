@@ -1,0 +1,60 @@
+name: Update news & deploy globe
+
+on:
+  schedule:
+    - cron: "17 6 * * *"   # every day at 06:17 UTC (about 1:17 AM US Central)
+  workflow_dispatch:        # lets you click "Run workflow" by hand
+  push:
+    branches: [main]
+
+permissions:
+  contents: write   # commit the new data files
+  pages: write      # deploy to GitHub Pages
+  id-token: write
+
+concurrency:
+  group: news-globe
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Fetch today's world news from GDELT
+        # Skip the fetch on ordinary code pushes; only refresh on schedule / manual runs
+        if: github.event_name != 'push'
+        run: python scripts/fetch_news.py --hours 24 --max-stories 150
+
+      - name: Commit new data
+        if: github.event_name != 'push'
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/
+          git diff --cached --quiet || git commit -m "News update $(date -u +'%Y-%m-%d')"
+          git push
+
+      - name: Prepare site
+        run: |
+          mkdir -p _site
+          cp -r index.html app.js style.css data _site/
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+  deploy:
+    needs: update
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

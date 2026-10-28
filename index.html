@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>World News Globe</title>
+  <meta name="description" content="Today's biggest news stories from around the world, pinned on an interactive 3D globe." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=Inter:wght@400;500;600&display=swap" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div id="globe"></div>
+
+  <header class="topbar">
+    <div class="brand">
+      <span class="brand-dot"></span>
+      <div>
+        <h1>World News Globe</h1>
+        <p id="updated">Loading today's stories…</p>
+      </div>
+    </div>
+    <div class="controls">
+      <select id="day" aria-label="Choose a day"></select>
+      <button id="rotate" class="icon-btn" title="Pause / resume rotation" aria-pressed="true">⟳</button>
+      <button id="toggle-list" class="icon-btn" title="Show / hide story list">☰</button>
+    </div>
+  </header>
+
+  <aside id="list-panel" class="panel list-panel">
+    <div class="panel-head">
+      <h2>Top stories</h2>
+      <input id="search" type="search" placeholder="Filter by keyword or place" />
+    </div>
+    <ol id="story-list"></ol>
+  </aside>
+
+  <section id="legend" class="legend" aria-label="Impact levels">
+    <h3>Impact</h3>
+    <div id="legend-items"></div>
+    <p class="legend-note">Click a level to show or hide it</p>
+  </section>
+
+  <article id="detail" class="panel detail" hidden>
+    <button id="close-detail" class="close" aria-label="Close">×</button>
+    <img id="d-image" alt="" referrerpolicy="no-referrer" />
+    <div class="detail-body">
+      <div class="d-meta">
+        <span id="d-tier" class="tier-chip"></span>
+        <span id="d-category" class="cat-chip"></span>
+      </div>
+      <h2 id="d-title"></h2>
+      <p id="d-location" class="d-location"></p>
+      <p id="d-desc" class="d-desc"></p>
+      <dl class="d-stats">
+        <div><dt>Articles</dt><dd id="d-articles"></dd></div>
+        <div><dt>Outlets</dt><dd id="d-sources"></dd></div>
+        <div><dt>Rank</dt><dd id="d-rank"></dd></div>
+      </dl>
+      <a id="d-link" class="read-btn" target="_blank" rel="noopener noreferrer">Read the story ↗</a>
+      <p id="d-domain" class="d-domain"></p>
+    </div>
+  </article>
+
+  <div id="demo-banner" class="demo-banner" hidden>
+    Showing <strong>sample data</strong>. Real news appears after the first daily update runs.
+  </div>
+
+  <footer class="credit">Data: <a href="https://www.gdeltproject.org" target="_blank" rel="noopener">GDELT Project</a> · Globe: <a href="https://globe.gl" target="_blank" rel="noopener">Globe.gl</a></footer>
+
+  <script src="https://cdn.jsdelivr.net/npm/globe.gl@2.46.2/dist/globe.gl.min.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
