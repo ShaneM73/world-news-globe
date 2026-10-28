@@ -285,6 +285,16 @@ def clean_title(title: str, domain: str) -> str:
     return title[:220]
 
 
+# Titles of anti-bot, paywall and error pages that are not real headlines
+JUNK_TITLE_RE = re.compile(
+    r"^(verifying|just a moment|attention required|access denied|are you a robot|"
+    r"security check|captcha|one more step|please wait|checking your browser|"
+    r"page not found|404|403|error|forbidden|subscribe to|sign in|log in|"
+    r"robot or human|bot verification|request rejected|site maintenance)",
+    re.I,
+)
+
+
 def title_from_slug(url: str) -> str:
     path = urllib.parse.urlparse(url).path.rstrip("/")
     slug = path.split("/")[-1] if path else ""
@@ -305,7 +315,12 @@ def enrich(story: dict) -> dict:
     except Exception:  # noqa: BLE001
         pass
     title = meta.get("og:title") or meta.get("twitter:title") or meta.get("title") or ""
-    story["title"] = clean_title(title, domain) if title else title_from_slug(url)
+    title = clean_title(title, domain) if title else ""
+    if not title or JUNK_TITLE_RE.search(title):
+        # Bot-check / paywall / error page instead of the article: use the URL slug
+        title = title_from_slug(url)
+        meta = {}
+    story["title"] = title
     story["description"] = (
         meta.get("og:description") or meta.get("description") or ""
     )[:400]
