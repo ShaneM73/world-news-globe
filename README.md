@@ -2,7 +2,7 @@
 
 ### 👉 [**Open the live globe → shanem73.github.io/world-news-globe**](https://shanem73.github.io/world-news-globe/)
 
-**Designed by [ShaneM73](https://github.com/ShaneM73)**
+**Designed by [Prof. Xin (Shane) Miao](https://github.com/ShaneM73)**
 
 ---
 
