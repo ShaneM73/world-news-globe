@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-28T15:01:41Z",
+ "generated_at": "2026-10-28T15:03:19Z",
  "window_hours": 24,
  "source": "GDELT Project 2.0 (gdeltproject.org)",
  "count": 150,
@@ -7,30 +7,6 @@
   {
    "id": 1,
    "rank": 1,
-   "tier": 5,
-   "title": "Verifying Device",
-   "description": "",
-   "url": "https://www.the-sun.com/news/17216439/",
-   "domain": "the-sun.com",
-   "image": "",
-   "lat": 31.4167,
-   "lng": 34.3333,
-   "location": "Gaza, Israel (general), Israel",
-   "country": "IS",
-   "category": "Diplomacy",
-   "actors": [
-    "Israeli",
-    "Iran",
-    "President"
-   ],
-   "articles": 524,
-   "sources": 421,
-   "score": 18.3534,
-   "tone": -1.03
-  },
-  {
-   "id": 2,
-   "rank": 2,
    "tier": 5,
    "title": "Trump continues red-state campaign push with days until midterms",
    "description": "President Donald Trump is barnstorming deep-red states across the country to defend GOP majorities in Congress as Democrats make inroads in some unlikely places.",
@@ -53,8 +29,8 @@
    "tone": -1.26
   },
   {
-   "id": 3,
-   "rank": 3,
+   "id": 2,
+   "rank": 2,
    "tier": 5,
    "title": "Israel's voter turnout soars as Netanyahu faces a tight election",
    "description": "Israelis voted in their highest numbers in over two decades in a tense national election to decide whether to stick with Prime Minister Benjamin Netanyahu's far-right coalition.",
@@ -77,8 +53,8 @@
    "tone": -0.61
   },
   {
-   "id": 4,
-   "rank": 4,
+   "id": 3,
+   "rank": 3,
    "tier": 5,
    "title": "The Latest: No clear winner in Israeli election, exit polls suggest, with Netanyahu’s fate uncertain",
    "description": "Exit polls indicate Israel’s election has ended with no clear winner, likely setting off weeks of jockeying before a leader is declared. Exit polls released by major Israeli TV stations",
@@ -101,8 +77,8 @@
    "tone": 0.34
   },
   {
-   "id": 5,
-   "rank": 5,
+   "id": 4,
+   "rank": 4,
    "tier": 5,
    "title": "King Charles III arrives in Bahamas for official Caribbean trip as slavery reparation demands grow",
    "description": "SAN JUAN, Puerto Rico (AP) — King Charles III arrived in the Bahamas on Tuesday as part of a nine-day trip to the Caribbean, where he faces calls for an apology and slavery reparations.",
@@ -125,9 +101,9 @@
    "tone": -0.31
   },
   {
-   "id": 6,
-   "rank": 6,
-   "tier": 4,
+   "id": 5,
+   "rank": 5,
+   "tier": 5,
    "title": "King acknowledges ‘great suffering of the past’ during visit to Caribbean",
    "description": "The King began his Caribbean tour by acknowledging the “great suffering of the past” and confirmed that Commonwealth leaders will discuss the legacy of slavery at a major summit. Speaking at an event celebrating Bahamas youth and staged where the country’s independence from the UK was declared, he said its culture was “born out of darkness”. His visit comes in the wake of renewed calls from Caribb",
    "url": "https://www.aol.co.uk/articles/king-acknowledges-great-suffering-past-234624000.html",
@@ -149,8 +125,8 @@
    "tone": 0.92
   },
   {
-   "id": 7,
-   "rank": 7,
+   "id": 6,
+   "rank": 6,
    "tier": 4,
    "title": "King to acknowledge ‘great suffering of the past’ during visit to Caribbean",
    "description": "Charles began his tour of the region in the Bahamas, where he arrived to a ceremonial welcome and will attend a youth parade.",
@@ -173,8 +149,8 @@
    "tone": 0.96
   },
   {
-   "id": 8,
-   "rank": 8,
+   "id": 7,
+   "rank": 7,
    "tier": 4,
    "title": "Trump To Unveil Plan Curbing Oil Drilling Regulations in Action That Could Save Americans $45 Billion in Energy Costs",
    "description": "President Donald Trump will announce an EPA proposal on Tuesday evening gutting Biden-era regulations that placed strict limits on methane emissions from oil and gas drilling operations, the Washington Free Beacon has learned.",
@@ -196,8 +172,8 @@
    "tone": 1.45
   },
   {
-   "id": 9,
-   "rank": 9,
+   "id": 8,
+   "rank": 8,
    "tier": 4,
    "title": "Israelis await final election results as Netanyahu rivals weigh joining forces with Arab parties",
    "description": "Israelis are closely awaiting final election results and what they mean for Prime Minister Benjamin Netanyahu's far-right government.",
@@ -220,8 +196,8 @@
    "tone": -3.85
   },
   {
-   "id": 10,
-   "rank": 10,
+   "id": 9,
+   "rank": 9,
    "tier": 4,
    "title": "US embassy worker accused over child abuse images is senior air force officer",
    "description": "The removal of Lt Col Michael Morris has led to renewed concerns over the US authorities ignoring the UK’s legal jurisdiction.",
@@ -244,8 +220,8 @@
    "tone": -9.33
   },
   {
-   "id": 11,
-   "rank": 11,
+   "id": 10,
+   "rank": 10,
    "tier": 4,
    "title": "Miami's Alexander brothers sentenced to 30 years each in sex-trafficking case",
    "description": "Oren, Alon and Tal Alexander each face decades in federal prison following their convictions for a string of rapes and assaults.",
@@ -268,8 +244,8 @@
    "tone": -8.44
   },
   {
-   "id": 12,
-   "rank": 12,
+   "id": 11,
+   "rank": 11,
    "tier": 4,
    "title": "California appeals court upholds actor Danny Masterson's rape convictions",
    "description": "",
@@ -292,8 +268,8 @@
    "tone": -8.72
   },
   {
-   "id": 13,
-   "rank": 13,
+   "id": 12,
+   "rank": 12,
    "tier": 4,
    "title": "Trump backs Bolsonaro's move to US after loss in Brazil",
    "description": "Flavio Bolsonaro is being given a US visa after his Brazilian election defeat, a move backed by Donald...",
@@ -316,8 +292,8 @@
    "tone": -5.94
   },
   {
-   "id": 14,
-   "rank": 14,
+   "id": 13,
+   "rank": 13,
    "tier": 4,
    "title": "Mahmoud Khalil credits Palestinian activism for reshaping US politics - Dominican Republic Post – Caribbean News, Business, Travel & Culture",
    "description": "Pro-Palestinian activist Mahmoud Khalil says campus advocacy has shifted public perception and encouraged a generation of leaders to question their views on",
@@ -340,8 +316,8 @@
    "tone": -2.42
   },
   {
-   "id": 15,
-   "rank": 15,
+   "id": 14,
+   "rank": 14,
    "tier": 4,
    "title": "Brazil told Flávio Bolsonaro he couldn't leave the country. He did it anyway",
    "description": "Despite an order to surrender his passports and assurances he would not flee, Flávio Bolsonaro is now believed to be in the US.",
@@ -364,8 +340,8 @@
    "tone": -4.86
   },
   {
-   "id": 16,
-   "rank": 16,
+   "id": 15,
+   "rank": 15,
    "tier": 4,
    "title": "RAF Fairford ‘plot co-ordinated by handler working on behalf of Iran’",
    "description": "Mohmed Abdulkarim, 24, and Nouman Essghir, 24, both appeared in court on Tuesday charged under the National Security Act 2023.",
@@ -388,8 +364,8 @@
    "tone": -6.29
   },
   {
-   "id": 17,
-   "rank": 17,
+   "id": 16,
+   "rank": 16,
    "tier": 4,
    "title": "Texas volunteer firefighter is suspect in multiple arsons that damaged structures, cars: officials",
    "description": "A Central Texas volunteer firefighter is facing more than a dozen felony charges after investigators said he intentionally set multiple fires in Moore and Pearsall.",
@@ -411,8 +387,8 @@
    "tone": -3.74
   },
   {
-   "id": 18,
-   "rank": 18,
+   "id": 17,
+   "rank": 17,
    "tier": 4,
    "title": "Defeated Bolsonaro and family to be granted US visas, official confirms",
    "description": "The defeated presidential candidate had been ordered to surrender his passport as he faces corruption and tax evasion charges.",
@@ -435,8 +411,8 @@
    "tone": -6.85
   },
   {
-   "id": 19,
-   "rank": 19,
+   "id": 18,
+   "rank": 18,
    "tier": 4,
    "title": "Lula calls Flavio Bolsonaro's departure from Brazil \"shameful\"",
    "description": "Lula calls Flavio Bolsonaro's departure from Brazil \"shameful\"-",
@@ -459,8 +435,8 @@
    "tone": 0.5
   },
   {
-   "id": 20,
-   "rank": 20,
+   "id": 19,
+   "rank": 19,
    "tier": 4,
    "title": "Flavio Bolsonaro flees Brazil after Lula defeat, US offers visas to family",
    "description": "Brazilian senator Flavio Bolsonaro has fled to the United States after losing the presidential election to incumbent Luiz Inacio Lula da Silva. He is reportedly in Miami with his family, while the US state department is set to issue entry visas to them.",
@@ -483,9 +459,9 @@
    "tone": -7.02
   },
   {
-   "id": 21,
-   "rank": 21,
-   "tier": 3,
+   "id": 20,
+   "rank": 20,
+   "tier": 4,
    "title": "Republican candidate for Ohio’s 58th district responds to Acton ad after opponent condemns silence",
    "description": "Republican candidate for Ohio’s 58th district Heather Fronk is responding to an ad featuring Dr. Amy Acton’s mother, after her Democratic opponent condemned her silence.",
    "url": "https://www.wfmj.com/news/local-news/republican-candidate-for-ohio-s-58th-district-responds-to-acton-ad-after-opponent-condemns-silence/article_7411b6a5-8fea-407e-a4c3-8751423960b7.html",
@@ -507,8 +483,8 @@
    "tone": -3.97
   },
   {
-   "id": 22,
-   "rank": 22,
+   "id": 21,
+   "rank": 21,
    "tier": 3,
    "title": "11,256,470 Babies Killed in Abortions Since UK Legalized Abortion in 1967",
    "description": "Today, Tuesday 27 October, marks the 59th anniversary of the Abortion Act receiving royal assent. Since then, a staggering 11,256,470* unborn babies have lost their lives to abortion across the UK – one baby is lost to abortion every two minutes; 34 lives are ended every hour**. There were 278,740 abortions in England and Wales […]",
@@ -531,8 +507,8 @@
    "tone": -3.84
   },
   {
-   "id": 23,
-   "rank": 23,
+   "id": 22,
+   "rank": 22,
    "tier": 3,
    "title": "Flávio Bolsonaro Leaves Brazil for the US",
    "description": "Flávio Bolsonaro is reported to have left Brazil for the United States on Tuesday after missing a Supreme Court passport deadline.",
@@ -555,8 +531,8 @@
    "tone": -0.5
   },
   {
-   "id": 24,
-   "rank": 24,
+   "id": 23,
+   "rank": 23,
    "tier": 3,
    "title": "Mystery swirls as Trump ally flees to the US after stinging election defeat",
    "description": "A mystery is unfolding around a close ally of President Donald Trump who is reportedly headed to the United States after suffering a stunning election defeat in Brazil.Brazilian Sen. Flávio Bolsonaro, who unexpectedly lost the presidential election to incumbent Luiz Inácio Lula da Silva, is travelin...",
@@ -579,8 +555,8 @@
    "tone": -5.17
   },
   {
-   "id": 25,
-   "rank": 25,
+   "id": 24,
+   "rank": 24,
    "tier": 3,
    "title": "Brazil’s Flavio Bolsonaro flees to US after election loss",
    "description": "The son of jailed ex-leader Jair Bolsonaro faces a corruption and money-laundering investigation and is set to lose parliamentary immunity after his election defeat.",
@@ -603,8 +579,8 @@
    "tone": -5.57
   },
   {
-   "id": 26,
-   "rank": 26,
+   "id": 25,
+   "rank": 25,
    "tier": 3,
    "title": "Bolsonaro leaves Brazil for US after losing to Lula",
    "description": "Flavio Bolsonaro has left Brazil for the US after losing the presidential election to Lula, defying a court order to surrender his passports.",
@@ -627,11 +603,11 @@
    "tone": -4.94
   },
   {
-   "id": 27,
-   "rank": 27,
+   "id": 26,
+   "rank": 26,
    "tier": 3,
-   "title": "Defeated presidential candidate Flávio Bolsonaro and his family land in Miami after fleeing Brazil",
-   "description": "MIAMI (AP) — Defeated Brazilian presidential candidate Flávio Bolsonaro and his family arrived in Miami on Wednesday, after he refused to concede to President Luiz Inácio Lula da Silva then fled the country.",
+   "title": "Flávio Bolsonaro flees Brazil through Argentina and is expected to land in Miami",
+   "description": "SAO PAULO (AP) — Flávio Bolsonaro, the defeated Brazilian presidential candidate, fled his country to Argentina and then Ecuador alongside his wife and two daughters, Argentina",
    "url": "https://www.winnipegfreepress.com/world/2026/10/28/flavio-bolsonaro-flees-brazil-through-argentina-en-route-to-ecuador-migration-authority-says",
    "domain": "winnipegfreepress.com",
    "image": "https://www.winnipegfreepress.com/wp-content/uploads/sites/2/2026/10/6adf5b5e518184d577a20371jpeg.jpg?w=1600",
@@ -651,8 +627,8 @@
    "tone": -1.25
   },
   {
-   "id": 28,
-   "rank": 28,
+   "id": 27,
+   "rank": 27,
    "tier": 3,
    "title": "A ceasefire in a Ukrainian city is holding, officials say, as Moscow and Kyiv await US-led talks",
    "description": "KHERSON, Ukraine (AP) — A planned six-day ceasefire in and around a Russian-occupied city in southern Ukraine held for its first day and night, officials said Wednesday, but Moscow and Kyiv continued to batter each other elsewhere.",
@@ -674,8 +650,8 @@
    "tone": -4.82
   },
   {
-   "id": 29,
-   "rank": 29,
+   "id": 28,
+   "rank": 28,
    "tier": 3,
    "title": "Flavio Bolsonaro flees Brazil through Argentina and lands in Miami",
    "description": "Brazil’s Supreme Court had ordered Mr Bolsonaro to hand over his passports.",
@@ -698,8 +674,8 @@
    "tone": -0.99
   },
   {
-   "id": 30,
-   "rank": 30,
+   "id": 29,
+   "rank": 29,
    "tier": 3,
    "title": "Danny masterson 70s show loses rape conviction appeal",
    "description": "",
@@ -722,8 +698,8 @@
    "tone": -8.65
   },
   {
-   "id": 31,
-   "rank": 31,
+   "id": 30,
+   "rank": 30,
    "tier": 3,
    "title": "How ‘NAZA’ and Avi Nesher’s ‘Our Loves’ May Have Swayed Israel’s Electorate Against Netanyahu",
    "description": "As returns show that neither the incumbent nor the anti-Bibi 'Change' bloc are close to a majority, two movies — and a shout out from Gal Gadot — have had a hidden effect.",
@@ -746,8 +722,8 @@
    "tone": -1.67
   },
   {
-   "id": 32,
-   "rank": 32,
+   "id": 31,
+   "rank": 31,
    "tier": 3,
    "title": "Healey: ‘Breathing space’ Budget will move toward lowering energy costs for good",
    "description": "Chancellor John Healey is expected to announce a freeze in fuel duty as well as measures to decouple gas and electricity prices.",
@@ -770,8 +746,8 @@
    "tone": -3.05
   },
   {
-   "id": 33,
-   "rank": 33,
+   "id": 32,
+   "rank": 32,
    "tier": 3,
    "title": "DOJ suffers humiliating defeat as grand jury rejects bid to charge ex-Trump aide",
    "description": "A federal grand jury in Washington, D.C. turned down a Justice Department request to indict former White House aide Cassidy Hutchinson over her testimony about the Jan. 6, 2021 insurrection, two people familiar with the matter told The Washington Post on Tuesday.At a brief hearing, a department lawy...",
@@ -794,8 +770,8 @@
    "tone": -5.85
   },
   {
-   "id": 34,
-   "rank": 34,
+   "id": 33,
+   "rank": 33,
    "tier": 3,
    "title": "Trump returns to Texas in effort to boost Paxton's Senate campaign",
    "description": "President Donald Trump returned Tuesday to Texas, making campaign stops in an effort to keep the Lone Star State on the Republican side in next week's midterm election.",
@@ -818,8 +794,8 @@
    "tone": 0.73
   },
   {
-   "id": 35,
-   "rank": 35,
+   "id": 34,
+   "rank": 34,
    "tier": 3,
    "title": "Mother arrested after allegedly leaving 4 kids under 14 alone while she was working in Vegas",
    "description": "Miller told investigators she was working in Las Vegas and a babysitter was checking on the children, according to the sheriff's office. When she returned to Florida, investigators took her",
@@ -840,8 +816,8 @@
    "tone": -5.44
   },
   {
-   "id": 36,
-   "rank": 36,
+   "id": 35,
+   "rank": 35,
    "tier": 3,
    "title": "Flávio Bolsonaro arrives in Florida after fleeing Brazil",
    "description": "Brazil's defeated candidate Flávio Bolsonaro arrives in the U.S. after a multi-country journey as Washington says it will issue him a visa.",
@@ -864,8 +840,8 @@
    "tone": -2.77
   },
   {
-   "id": 37,
-   "rank": 37,
+   "id": 36,
+   "rank": 36,
    "tier": 3,
    "title": "Netanyahu: Likud is the largest party, we must form a right-wing government",
    "description": "Prime Minister Netanyahu calls for a national right-wing government, warns against relying on Arab parties, and vows to eliminate the Iranian threat.",
@@ -888,8 +864,8 @@
    "tone": -1.83
   },
   {
-   "id": 38,
-   "rank": 38,
+   "id": 37,
+   "rank": 37,
    "tier": 3,
    "title": "Brian Winter Spoke to AP about Lula's Victory in Brazil's Presidential Election",
    "description": "\"This is a really uphill battle for Flavio Bolsonaro,\" said Americas Quarterly's editor-in-chief to the news agency.",
@@ -912,8 +888,8 @@
    "tone": -0.95
   },
   {
-   "id": 39,
-   "rank": 39,
+   "id": 38,
+   "rank": 38,
    "tier": 3,
    "title": "Israeli exit polls show election deadlock no clear path to power",
    "description": "",
@@ -936,8 +912,8 @@
    "tone": -5.67
   },
   {
-   "id": 40,
-   "rank": 40,
+   "id": 39,
+   "rank": 39,
    "tier": 3,
    "title": "Elizabeth Hurley Reveals Significant Step In Her Future With Billy Ray Cyrus",
    "description": "The actress and the country star publicly confirmed their romance for the first time in April 2025.",
@@ -958,8 +934,8 @@
    "tone": 1.97
   },
   {
-   "id": 41,
-   "rank": 41,
+   "id": 40,
+   "rank": 40,
    "tier": 3,
    "title": "Alexander brothers each sentenced to 30 years in prison for sex trafficking",
    "description": "Once celebrated as high-profile figures in the luxury real estate world, the Alexander brothers are now headed to prison for 30 years after being convicted of sex trafficking.",
@@ -982,8 +958,8 @@
    "tone": -9.15
   },
   {
-   "id": 42,
-   "rank": 42,
+   "id": 41,
+   "rank": 41,
    "tier": 3,
    "title": "Thrive Academy celebrates expansion",
    "description": "Family Initiative celebrated the completed expansion of Thrive Academy with a ribbon-cutting Tuesday and appeals from state and local officials for continued growth in the service of families and children impacted by autism. Thrive Academy is a K-12 private school serving students diagnosed on the autism spectrum. The renovated building increases enrollment capacity with the […]",
@@ -1006,8 +982,8 @@
    "tone": 5.76
   },
   {
-   "id": 43,
-   "rank": 43,
+   "id": 42,
+   "rank": 42,
    "tier": 3,
    "title": "‘Horrible to wash blood off his skin’: Accused pilot’s conversations after wife’s death",
    "description": "After years of extramarital affairs, RAAF pilot Robert Crawford allegedly murdered his wife and staged her death scene to look like a mower accident, prosecutors say.",
@@ -1030,8 +1006,8 @@
    "tone": -4.24
   },
   {
-   "id": 44,
-   "rank": 44,
+   "id": 43,
+   "rank": 43,
    "tier": 3,
    "title": "Ceasefire in devastated Ukrainian city holds for first 30 hours, officials say",
    "description": "The plight of Oleshky caught the attention of US first lady Melania Trump.",
@@ -1053,8 +1029,8 @@
    "tone": -4.87
   },
   {
-   "id": 45,
-   "rank": 45,
+   "id": 44,
+   "rank": 44,
    "tier": 3,
    "title": "Netanyahu faces tough challenge in Israeli elections",
    "description": "Israelis surged to the polls on October 27 at the fastest rate in nearly half a century to pass wartime judgment on Prime Minister Benjamin Netanyahu.",
@@ -1077,8 +1053,8 @@
    "tone": -4.08
   },
   {
-   "id": 46,
-   "rank": 46,
+   "id": 45,
+   "rank": 45,
    "tier": 3,
    "title": "Jury finds two men guilty of murder in 2022 shooting outside WinCo grocery store",
    "description": "Two men were found guilty in the murder of Romeo Stevens outside a WinCo grocery store in South Salt Lake.",
@@ -1101,8 +1077,8 @@
    "tone": -7.46
   },
   {
-   "id": 47,
-   "rank": 47,
+   "id": 46,
+   "rank": 46,
    "tier": 3,
    "title": "The doctor extending family practices at a global level",
    "description": "With a background as a family doctor, Dr Sadok Besrour and his foundation are trying to tackle health, education, and heritage. He joined Jamila Versi for a chat to tell her a little more about it – and the importance of introducing family medicine to the world.  Dr Sadok Besrour is a busy man. Joining […]",
@@ -1125,8 +1101,8 @@
    "tone": 1.82
   },
   {
-   "id": 48,
-   "rank": 48,
+   "id": 47,
+   "rank": 47,
    "tier": 3,
    "title": "Crime scene analyst testifies in DeKalb, Texas, double-murder case",
    "description": "NEW BOSTON, Texas -- A crime scene analyst testified for close to two hours Tuesday afternoon about evidence found at the June 19, 2025, homicide scene of a corrections officer and his friend.",
@@ -1149,8 +1125,8 @@
    "tone": -7.44
   },
   {
-   "id": 49,
-   "rank": 49,
+   "id": 48,
+   "rank": 48,
    "tier": 3,
    "title": "Democrats Want Abortions Up to Birth, Funded With Your Tax Dollars",
    "description": "Democrats have two big priorities if they retake Congress: abortion up to birth and funding abortions with your tax dollars. Pro-life leaders said today that Democratic congressional leaders have outlined plans to prioritize federal legislation that would override state laws protecting unborn children and require taxpayers to fund elective abortions if the party gains control […]",
@@ -1172,8 +1148,8 @@
    "tone": -2.26
   },
   {
-   "id": 50,
-   "rank": 50,
+   "id": 49,
+   "rank": 49,
    "tier": 3,
    "title": "Miliband ‘deeply concerned’ after MPs say they were detained on way to West Bank",
    "description": "The Foreign Secretary told the Commons that the Government has now raised the issue with the Israeli authorities.",
@@ -1194,9 +1170,9 @@
    "tone": -3.88
   },
   {
-   "id": 51,
-   "rank": 51,
-   "tier": 2,
+   "id": 50,
+   "rank": 50,
+   "tier": 3,
    "title": "Alexander brothers each sentenced to 30 years in federal prison for sex trafficking",
    "description": "By Kara Scannell, Lauren del Valle, Nicki Brown, CNN New York (CNN) — Alon, Tal and Oren Alexander – three brothers who once lived at the height of wealth and society in New York and Miami – were each sentenced to 30 years in federal prison Tuesday for sex trafficking and other crimes after facing",
    "url": "https://localnews8.com/news/national-world/cnn-national/2026/10/27/alexander-brothers-each-sentenced-to-30-years-in-federal-prison-for-sex-trafficking/",
@@ -1218,8 +1194,8 @@
    "tone": -6.61
   },
   {
-   "id": 52,
-   "rank": 52,
+   "id": 51,
+   "rank": 51,
    "tier": 2,
    "title": "Data centers are a hot-button issue for Ohioans as midterms near",
    "description": "In Ohio, many people are displeased with the state's rapid buildout of data centers. It's a hot-button issue in the midterms, as political candidates from both parties try to ease voter concerns.",
@@ -1242,8 +1218,8 @@
    "tone": -0.76
   },
   {
-   "id": 53,
-   "rank": 53,
+   "id": 52,
+   "rank": 52,
    "tier": 2,
    "title": "‘Not true’: Jones’ teen accuser hits back",
    "description": "A man who was a teenager when he alleges Alan Jones kissed him has hit back in court against claims that he made it all up.",
@@ -1266,8 +1242,8 @@
    "tone": -5.22
   },
   {
-   "id": 54,
-   "rank": 54,
+   "id": 53,
+   "rank": 53,
    "tier": 2,
    "title": "Taylor County’s Lights Out program requires sex offenders to report on Halloween night",
    "description": "Taylor County officials are preparing to keep children safe during trick-or-treating hours.",
@@ -1288,8 +1264,8 @@
    "tone": -4.53
   },
   {
-   "id": 55,
-   "rank": 55,
+   "id": 54,
+   "rank": 54,
    "tier": 2,
    "title": "How a lifelong Republican came to lead the data center battle in Ohio",
    "description": "In Ohio, many people are displeased with the state's rapid buildout of data centers. It's a hot issue in the midterms, as political candidates from both parties try to ease voter concerns.",
@@ -1312,8 +1288,8 @@
    "tone": -0.23
   },
   {
-   "id": 56,
-   "rank": 56,
+   "id": 55,
+   "rank": 55,
    "tier": 2,
    "title": "Boeing 777 freighter production halted for nearly two months",
    "description": "A dispute with a sole supplier of a critical wing component has stalled production of Boeing's 777 freighter for nearly two months",
@@ -1334,8 +1310,8 @@
    "tone": -4.58
   },
   {
-   "id": 57,
-   "rank": 57,
+   "id": 56,
+   "rank": 56,
    "tier": 2,
    "title": "Man broke into home before wife's death, jury hears",
    "description": "A man accused of his wife's murder had a narrow preconception of domestic violence and told her \"churches...",
@@ -1358,8 +1334,8 @@
    "tone": -6.2
   },
   {
-   "id": 58,
-   "rank": 58,
+   "id": 57,
+   "rank": 57,
    "tier": 2,
    "title": "3 suspects arrested by Jordan for attack on Greek church",
    "description": "Jordanian security forces have arrested three men suspected of carrying out a deadly attack on a Greek Orthodox Church in the southern city of Karak.",
@@ -1382,8 +1358,8 @@
    "tone": -10.63
   },
   {
-   "id": 59,
-   "rank": 59,
+   "id": 58,
+   "rank": 58,
    "tier": 2,
    "title": "'Blatantly racist' Trump operative fired 900 without accepting formal job offer: report",
    "description": "An operative for President Donald Trump fired nearly all of the U.S. foreign aid agency’s last 900 employees without accepting its job offer, a new report says.Jeremy Lewin, then a 28-year-old member of billionaire Elon Musk’s Department of Government Efficiency, did not sign the paperwork typically...",
@@ -1406,8 +1382,8 @@
    "tone": -2.23
   },
   {
-   "id": 60,
-   "rank": 60,
+   "id": 59,
+   "rank": 59,
    "tier": 2,
    "title": "Bozeman farmland deal protects 150 acres for agriculture",
    "description": "BOZEMAN, Mont. — A conservation easement in the Bozeman area is permanently protecting 150 acres used by Amaltheia Organic Dairy for farming and goat grazing. The project brought together Amaltheia",
@@ -1429,8 +1405,8 @@
    "tone": 3.08
   },
   {
-   "id": 61,
-   "rank": 61,
+   "id": 60,
+   "rank": 60,
    "tier": 2,
    "title": "Marilyn manson australia tour sexual assault lawsuit abuse",
    "description": "",
@@ -1453,8 +1429,8 @@
    "tone": -6.76
   },
   {
-   "id": 62,
-   "rank": 62,
+   "id": 61,
+   "rank": 61,
    "tier": 2,
    "title": "Three capybara pups born in Edinburgh months after ‘babybara’ Bru shot to fame",
    "description": "Keepers at Edinburgh Zoo spotted the new pups on Wednesday morning after they were born overnight to capybara parents Luna and Rodney.",
@@ -1475,8 +1451,8 @@
    "tone": 2.79
   },
   {
-   "id": 63,
-   "rank": 63,
+   "id": 62,
+   "rank": 62,
    "tier": 2,
    "title": "King Charles acknowledges ‘injustices of the past’ as Caribbean tour gets underway",
    "description": "CNN By Rupert Neate, Lauren Said-Moorhouse, CNN London (CNN) — Britain’s King Charles III began his nine-day tour of the Caribbean region Tuesday, arriving in the Bahamas where he acknowledged “the great suffering and injustices of the past” as pressure mounts on Britain to apologize and pay reparations for its role in the slave trade.",
@@ -1499,8 +1475,8 @@
    "tone": -3.77
   },
   {
-   "id": 64,
-   "rank": 64,
+   "id": 63,
+   "rank": 63,
    "tier": 2,
    "title": "Why many student voters have a right to choose where to register to vote",
    "description": "Student voters studying outside their hometown have a right to choose where they register to vote. Advocates say a Montana legal fight is a reminder of a misunderstanding of those students' rights.",
@@ -1523,8 +1499,8 @@
    "tone": -0.99
   },
   {
-   "id": 65,
-   "rank": 65,
+   "id": 64,
+   "rank": 64,
    "tier": 2,
    "title": "58th Never Forgotten Honor Flight heads to D.C. and enjoys 'fantastic time'",
    "description": "Nearly 100 veterans and 74 guardians gathered at the Central Wisconsin airport at 4:30 a.m. Monday, preparing for the 58th Never Forgotten Honor Flight.",
@@ -1545,8 +1521,8 @@
    "tone": 2.73
   },
   {
-   "id": 66,
-   "rank": 66,
+   "id": 65,
+   "rank": 65,
    "tier": 2,
    "title": "King Charles ignores reparations protest as he addresses issue of slavery at start of tour",
    "description": "The King has completed the first day of his Caribbean tour.",
@@ -1569,8 +1545,8 @@
    "tone": 1.72
   },
   {
-   "id": 67,
-   "rank": 67,
+   "id": 66,
+   "rank": 66,
    "tier": 2,
    "title": "King Charles says Commonwealth to confront slavery's injustices, as calls for reparations grow",
    "description": "King Charles acknowledged the injustices of slavery, saying ​Commonwealth leaders would discuss the issue at their summit next week, amid calls from the Caribbean for reparations.",
@@ -1593,8 +1569,8 @@
    "tone": -3.18
   },
   {
-   "id": 68,
-   "rank": 68,
+   "id": 67,
+   "rank": 67,
    "tier": 2,
    "title": "Pilot wanted to leave with mistress: court",
    "description": "A pilot who lied about decades of infidelity asked one lover to move to PNG before he allegedly murdered his wife, a court has been told.",
@@ -1617,8 +1593,8 @@
    "tone": -4.62
   },
   {
-   "id": 69,
-   "rank": 69,
+   "id": 68,
+   "rank": 68,
    "tier": 2,
    "title": "Why david eby early election backfired",
    "description": "",
@@ -1641,8 +1617,8 @@
    "tone": -4.65
   },
   {
-   "id": 70,
-   "rank": 70,
+   "id": 69,
+   "rank": 69,
    "tier": 2,
    "title": "Slavery amends on King's Caribbean meeting agenda",
    "description": "King Charles has arrived in the Bahamas as part of a trip to the Caribbean, where he faces calls for an apology and slavery reparations.",
@@ -1665,8 +1641,8 @@
    "tone": -2.13
   },
   {
-   "id": 71,
-   "rank": 71,
+   "id": 70,
+   "rank": 70,
    "tier": 2,
    "title": "Trump, Talarico rally voters in Texas Senate race as midterm elections approach",
    "description": "President Donald Trump campaigned for Republican Ken Paxton at two stops in Texas on Tuesday, while Democrat James Talarico held a separate rally in Lubbock.",
@@ -1689,8 +1665,8 @@
    "tone": -0.24
   },
   {
-   "id": 72,
-   "rank": 72,
+   "id": 71,
+   "rank": 71,
    "tier": 2,
    "title": "Victoria ranked worst state to run a business as Carroll and Wilson pitch tax cuts",
    "description": "Victoria's payroll tax, property taxes and business licensing regime have contributed to the state's poor ranking.",
@@ -1712,8 +1688,8 @@
    "tone": -2.65
   },
   {
-   "id": 73,
-   "rank": 73,
+   "id": 72,
+   "rank": 72,
    "tier": 2,
    "title": "Lessons from abroad the adviser hosts uk study tour to prepare for australia s next frontier",
    "description": "",
@@ -1736,8 +1712,8 @@
    "tone": 2.13
   },
   {
-   "id": 74,
-   "rank": 74,
+   "id": 73,
+   "rank": 73,
    "tier": 2,
    "title": "Deakin university gift city campus launches master of applied artificial intelligence professional with industry roundtable in bengaluru20261028132608",
    "description": "",
@@ -1760,8 +1736,8 @@
    "tone": 5.49
   },
   {
-   "id": 75,
-   "rank": 75,
+   "id": 74,
+   "rank": 74,
    "tier": 2,
    "title": "Microsoft moves to shed quarter of workforce",
    "description": "Microsoft is seeking to shed up to 60,000 workers as the tech giant slashes payroll costs while pouring billions into AI Read Full Article at RT.com",
@@ -1784,8 +1760,8 @@
    "tone": -2.9
   },
   {
-   "id": 76,
-   "rank": 76,
+   "id": 75,
+   "rank": 75,
    "tier": 2,
    "title": "Oregon elementary & Parkland parents push for change after school shootings",
    "description": "A shooting at Silver Rail Elementary School in Bend, Oregon, left three children and a teacher dead after authorities said a 16-year-old former student.",
@@ -1808,8 +1784,8 @@
    "tone": -3.02
   },
   {
-   "id": 77,
-   "rank": 77,
+   "id": 76,
+   "rank": 76,
    "tier": 2,
    "title": "A US cruise ship suspends a global voyage in Asia due to fuel costs, stranding 200 passengers",
    "description": "A U.S. cruise ship on a three-year voyage has suspended its journey in Cambodia due to high fuel costs, forcing hundreds of passengers to disembark.",
@@ -1832,8 +1808,8 @@
    "tone": -2.3
   },
   {
-   "id": 78,
-   "rank": 78,
+   "id": 77,
+   "rank": 77,
    "tier": 2,
    "title": "Algorithm opt-out, socials overhaul ready for download",
    "description": "There's little left in the way of a big tech shake-up becoming law as Labor's digital duty of...",
@@ -1854,8 +1830,8 @@
    "tone": -2.32
   },
   {
-   "id": 79,
-   "rank": 79,
+   "id": 78,
+   "rank": 78,
    "tier": 2,
    "title": "Serial killer Ted Bundy is linked to another Utah teenager's 1974 killing through DNA testing",
    "description": "DNA connects serial killer Ted Bundy to the death of another Utah teenager, authorities announced Tuesday, exactly 52 years after her body was discovered in the woods by a hunter.",
@@ -1878,8 +1854,8 @@
    "tone": -4.3
   },
   {
-   "id": 80,
-   "rank": 80,
+   "id": 79,
+   "rank": 79,
    "tier": 2,
    "title": "Southwest flood damage estimates are hundreds of millions for New Mexico alone",
    "description": "Intense rainstorms linked to a very active El Niño-driven Pacific hurricane season have left thousands of people in the Four Corners states displaced.",
@@ -1902,8 +1878,8 @@
    "tone": -4.06
   },
   {
-   "id": 81,
-   "rank": 81,
+   "id": 80,
+   "rank": 80,
    "tier": 2,
    "title": "Truck stolen by escaped Tennessee inmate is found abandoned in Illinois, authorities say",
    "description": "Authorities say an escaped Tennessee inmate convicted of murdering a co-worker stole a truck from a nearby farm and apparently made it to southern Illinois before abandoning it. Jacob Morley,",
@@ -1926,8 +1902,8 @@
    "tone": -9.19
   },
   {
-   "id": 82,
-   "rank": 82,
+   "id": 81,
+   "rank": 81,
    "tier": 2,
    "title": "DSA & aligned candidates in focus ahead of midterm Election Day",
    "description": "With Election Day nearing, Democratic Socialists of America-backed and aligned candidates have become a growing focus on the campaign trail.",
@@ -1949,8 +1925,8 @@
    "tone": 0.21
   },
   {
-   "id": 83,
-   "rank": 83,
+   "id": 82,
+   "rank": 82,
    "tier": 2,
    "title": "Father pleads guilty to car crash that killed, injured his young children",
    "description": "Man admits to dangerous driving charges over fatal Bega Valley crash",
@@ -1971,8 +1947,8 @@
    "tone": -8.63
   },
   {
-   "id": 84,
-   "rank": 84,
+   "id": 83,
+   "rank": 83,
    "tier": 2,
    "title": "Sheriff makes safety recommendations after water deaths inquiry",
    "description": "The joint inquiry looked at the deaths of Kayden Walker in 2019 and Ruaridh Stevenson in 2024.",
@@ -1993,8 +1969,8 @@
    "tone": -1.07
   },
   {
-   "id": 85,
-   "rank": 85,
+   "id": 84,
+   "rank": 84,
    "tier": 2,
    "title": "'Yum': Teacher jailed for having sex with student",
    "description": "A former teacher has been sentenced for having sex with a 17-year-old student and sexually touching a younger...",
@@ -2017,8 +1993,8 @@
    "tone": -3.82
   },
   {
-   "id": 86,
-   "rank": 86,
+   "id": 85,
+   "rank": 85,
    "tier": 2,
    "title": "Office leasing on track to top 2022 record, vacancy falls in post-pandemic 'new normal'",
    "description": "CBRE says office leasing is on pace to top a 2022 record as vacancy falls. Employers are increasing in-office expectations, and the firm sees AI as unlikely to sharply reduce office demand.",
@@ -2040,8 +2016,8 @@
    "tone": -1.25
   },
   {
-   "id": 87,
-   "rank": 87,
+   "id": 86,
+   "rank": 86,
    "tier": 2,
    "title": "A dinosaur fossil that looks like a mini T. rex just sold for a giant $47 million",
    "description": "The rare skeleton of a Nanotyrannus — recently confirmed to be a distant cousin of Tyrannosaurus rex — sold for $47.3 million to a mystery buyer at auction in New York City on Tuesday",
@@ -2062,8 +2038,8 @@
    "tone": -0.32
   },
   {
-   "id": 88,
-   "rank": 88,
+   "id": 87,
+   "rank": 87,
    "tier": 2,
    "title": "Former teacher Tayla Lee Brailey jailed for sex acts with students",
    "description": "A woman who taught at a Sydney high school is given a 15-month prison sentence for sexual offences involving two male students.",
@@ -2086,8 +2062,8 @@
    "tone": -6.39
   },
   {
-   "id": 89,
-   "rank": 89,
+   "id": 88,
+   "rank": 88,
    "tier": 2,
    "title": "AP sources: Federal agents search Beverly Hills mansion in investigation of ex-Rep. Eric Swalwell",
    "description": "WASHINGTON (AP) — Federal law enforcement agents searched a Beverly Hills home early Tuesday as part of an investigation into Eric Swalwell, who resigned from Congress amid a wave of sexual misconduct allegations, two people familiar with the investigation told The Associated Press.",
@@ -2110,8 +2086,8 @@
    "tone": -4.58
   },
   {
-   "id": 90,
-   "rank": 90,
+   "id": 89,
+   "rank": 89,
    "tier": 2,
    "title": "Supreme Court rejects challenge to policy allowing judges to pause deportation cases",
    "description": "KBTV Fox SETX provides local news, weather coverage and traffic reports for the Beaumont, Port Arthur, Texas area and surrounding communities including Orange, Vidor, Lumberton, Kountze, Silsbee, Woodville, Newton, Jasper, Nederland, Port Neches, Groves, Colmesneil, Bridge City, Orangefield, Crystal Beach, High Island, Sabine Pass, Hamshire, Fannett, Nome, China, Kirbyville, Buna, Sour Lake and Wi",
@@ -2133,8 +2109,8 @@
    "tone": -5.37
   },
   {
-   "id": 91,
-   "rank": 91,
+   "id": 90,
+   "rank": 90,
    "tier": 2,
    "title": "Iranian Official Disputes Report Of Qatari Peace Proposal",
    "description": "As the conflict in the Persian Gulf continues to impact and shape the region, journalists from RFE/RL&#39;s Central Newsroom and Iranian service, Radio Farda,",
@@ -2157,8 +2133,8 @@
    "tone": -0.95
   },
   {
-   "id": 92,
-   "rank": 92,
+   "id": 91,
+   "rank": 91,
    "tier": 2,
    "title": "Missing data hides true reality of deep racism problems",
    "description": "People's experiences of racism in Australia are being erased as a result of unsatisfactory data collection, making the...",
@@ -2179,8 +2155,8 @@
    "tone": -8.36
   },
   {
-   "id": 93,
-   "rank": 93,
+   "id": 92,
+   "rank": 92,
    "tier": 2,
    "title": "Savannah Chrisley is pregnant and engaged to her mystery fiancé, Jason",
    "description": "The former reality star began dating Jason Galanis last July.",
@@ -2203,8 +2179,8 @@
    "tone": 1.39
   },
   {
-   "id": 94,
-   "rank": 94,
+   "id": 93,
+   "rank": 93,
    "tier": 2,
    "title": "Family of UK couple jailed in Iran demand stronger action after Miliband meeting",
    "description": "Craig Foreman and his wife Lindsay were sentenced to 10 years’ prison in February after being convicted of espionage, charges they both deny.",
@@ -2227,8 +2203,8 @@
    "tone": -3.11
   },
   {
-   "id": 95,
-   "rank": 95,
+   "id": 94,
+   "rank": 94,
    "tier": 2,
    "title": "Iranian filmmaker Jafar Panahi sentenced to five years and one month in prison; Tehran court orders asset confiscation",
    "description": "Iranian filmmaker Jafar Panahi, who was already facing a one-year prison sentence, has now been sentenced to five years and one month in a separate ruling by a Tehran Revolutionary Court.",
@@ -2249,8 +2225,8 @@
    "tone": -8.31
   },
   {
-   "id": 96,
-   "rank": 96,
+   "id": 95,
+   "rank": 95,
    "tier": 2,
    "title": "Savannah Chrisley Is Expecting a Baby With Mystery Fiancé: ‘A Man With the Patience of Job’",
    "description": "“I wondered if I would ever find my forever … if I would ever feel safe enough to truly breathe again. And then God sent me J,” Savannah wrote on Instagram.",
@@ -2272,8 +2248,8 @@
    "tone": 2.53
   },
   {
-   "id": 97,
-   "rank": 97,
+   "id": 96,
+   "rank": 96,
    "tier": 2,
    "title": "Why Sri Lanka needs Singapore Temasek-style holding model for SOEs",
    "description": "State-owned enterprises (SOEs) play a significant role in Sri Lanka’s economy. They provide essential services, support national development, generate employment, and manage important public assets. However, the performance of many SOEs has raised serious concerns about financial sustainability, operational efficiency, accountability, and the effective use of public resources. The International  .",
@@ -2294,8 +2270,8 @@
    "tone": 1.24
   },
   {
-   "id": 98,
-   "rank": 98,
+   "id": 97,
+   "rank": 97,
    "tier": 2,
    "title": "Polls close in Israel with opposition ahead but no clear winner",
    "description": "Voting in Israel has ended and exit polls suggest most Israelis have voted against Prime Minister Benjamin Netanyahu. But the center-right opposition may struggle to build a governing coalition.",
@@ -2318,8 +2294,8 @@
    "tone": -4.65
   },
   {
-   "id": 99,
-   "rank": 99,
+   "id": 98,
+   "rank": 98,
    "tier": 2,
    "title": "'Scary': tobacco kingpin probed after fatal shooting",
    "description": "A killer remains on the run after a 55-year-old man was gunned down in a suburban driveway in...",
@@ -2342,8 +2318,8 @@
    "tone": -10.34
   },
   {
-   "id": 100,
-   "rank": 100,
+   "id": 99,
+   "rank": 99,
    "tier": 2,
    "title": "‘You’re not going to hijack my show’: Credlin, Clennell in fiery on-air clash over One Nation comment",
    "description": "The pair clashed over Credlin’s perceived failure to defend him after Clennell claimed he was called a “dickhead” by One Nation’s national director James Ashby.",
@@ -2364,9 +2340,9 @@
    "tone": -2.43
   },
   {
-   "id": 101,
-   "rank": 101,
-   "tier": 1,
+   "id": 100,
+   "rank": 100,
+   "tier": 2,
    "title": "Healey Budget offers help for families and firms hit by global economic storm",
    "description": "Banks and gambling firms were hit with higher taxes to help pay for support for high street businesses and household energy bills.",
    "url": "https://www.thenorthernecho.co.uk/news/national/26677778.healey-budget-offers-help-families-firms-hit-global-economic-storm/",
@@ -2388,8 +2364,8 @@
    "tone": -4.35
   },
   {
-   "id": 102,
-   "rank": 102,
+   "id": 101,
+   "rank": 101,
    "tier": 1,
    "title": "Australia's grades slip with international students",
    "description": "A new report has found fewer international students are putting Australia at the top of their favoured destinations.",
@@ -2411,8 +2387,8 @@
    "tone": -2.04
   },
   {
-   "id": 103,
-   "rank": 103,
+   "id": 102,
+   "rank": 102,
    "tier": 1,
    "title": "EPA response to 2023 Ohio train derailment will be investigated by agency watchdog",
    "description": "The Environmental Protection Agency's response to the disastrous 2023 East Palestine train derailment will be investigated after local residents of the small town on the Ohio-Pennsylvania border and Vice President JD Vance pressed for the review.",
@@ -2435,8 +2411,8 @@
    "tone": -5.3
   },
   {
-   "id": 104,
-   "rank": 104,
+   "id": 103,
+   "rank": 103,
    "tier": 1,
    "title": "Grand jury refuses to indict ex-White House aide Cassidy Hutchinson, AP sources say",
    "description": "It’s the latest setback in the efforts to charge perceived adversaries of the Republican president.",
@@ -2459,8 +2435,8 @@
    "tone": -5.18
   },
   {
-   "id": 105,
-   "rank": 105,
+   "id": 104,
+   "rank": 104,
    "tier": 1,
    "title": "Rajnath singh meets us secy of war hegseth on sidelines of 160asean defence ministers8217 meeting in philippines20261028095649",
    "description": "",
@@ -2483,8 +2459,8 @@
    "tone": 2.79
   },
   {
-   "id": 106,
-   "rank": 106,
+   "id": 105,
+   "rank": 105,
    "tier": 1,
    "title": "Premier makes a pit stop, rejects business pot shots",
    "description": "Labor's campaign bus has made an unexpected pit stop at McDonald's during the election trail, as the opposition...",
@@ -2505,8 +2481,8 @@
    "tone": -4.21
   },
   {
-   "id": 107,
-   "rank": 107,
+   "id": 106,
+   "rank": 106,
    "tier": 1,
    "title": "Online hate is spilling into the real world, AFP warns",
    "description": "A real shift has occurred as online hate has extended out into real life, AFP Commissioner Krissy Barrett...",
@@ -2529,8 +2505,8 @@
    "tone": -6.09
   },
   {
-   "id": 108,
-   "rank": 108,
+   "id": 107,
+   "rank": 107,
    "tier": 1,
    "title": "No new trial for man sentenced to die in railroad spike death",
    "description": "A man on death row in the railroad spike killing nearly four decades ago in Xenia will not be getting a new trial.",
@@ -2553,8 +2529,8 @@
    "tone": -9.12
   },
   {
-   "id": 109,
-   "rank": 109,
+   "id": 108,
+   "rank": 108,
    "tier": 1,
    "title": "NC Republican Congressmen buy TV ads in deep-red districts as election looms",
    "description": "Incumbent Republicans in Congress from seven conservative districts in North Carolina are running TV ads to help their re-election campaigns. It's a sign that the GOP could be worried about districts designed to be safe for Republicans amid what could be a wave year for Democrats.",
@@ -2577,8 +2553,8 @@
    "tone": -1.67
   },
   {
-   "id": 110,
-   "rank": 110,
+   "id": 109,
+   "rank": 109,
    "tier": 1,
    "title": "Serbian police say assailant killed after attacking officer outside the Israeli Embassy in Belgrade",
    "description": "BELGRADE, Serbia (AP) — An assailant with knives attacked a police officer from an elite unit guarding the Israeli Embassy in Belgrade just after midnight on Wednesday, police said. The officer responded by fatally shooting the attacker.",
@@ -2601,8 +2577,8 @@
    "tone": -2.93
   },
   {
-   "id": 111,
-   "rank": 111,
+   "id": 110,
+   "rank": 110,
    "tier": 1,
    "title": "Serial killer Ted Bundy is linked to another murder through DNA testing",
    "description": "Authorities have connected serial killer Ted Bundy to the death of a Utah teenager through DNA evidence. Tuesday's announcement comes exactly 52 years after her body was discovered. Bundy killed at least 30 women and girls in the 1970s. He was executed in 1989. Investigators are now satisfied that Bundy was responsible for killing 17-year-old Melissa Ann Smith in 1974. Her death had been a cold ca",
@@ -2625,8 +2601,8 @@
    "tone": -3.41
   },
   {
-   "id": 112,
-   "rank": 112,
+   "id": 111,
+   "rank": 111,
    "tier": 1,
    "title": "Israel’s voters deny Binyamin Netanyahu a majority",
    "description": "His opponents will, nonetheless, probably struggle to form a government",
@@ -2649,8 +2625,8 @@
    "tone": -3.25
   },
   {
-   "id": 113,
-   "rank": 113,
+   "id": 112,
+   "rank": 112,
    "tier": 1,
    "title": "Nicki Minaj Boards Air Force One for Michigan Campaign Rally",
    "description": "Nicki Minaj joined President Donald Trump aboard Air Force One on October 25, traveling to Michigan for a Republican campaign rally ahead of the midte...",
@@ -2672,8 +2648,8 @@
    "tone": 1.63
   },
   {
-   "id": 114,
-   "rank": 114,
+   "id": 113,
+   "rank": 113,
    "tier": 1,
    "title": "Grand jury refuses to indict former White House aide Cassidy Hutchinson, AP sources say",
    "description": "",
@@ -2696,8 +2672,8 @@
    "tone": -5.72
   },
   {
-   "id": 115,
-   "rank": 115,
+   "id": 114,
+   "rank": 114,
    "tier": 1,
    "title": "New York woman found guilty of getting military training from ISIS in Syria",
    "description": "Halina Salman, 27, wearing a light purple hijab and pink hoodie, broke down crying as the jury left the room. Salman now faces up to 10 years in federal prison.",
@@ -2720,8 +2696,8 @@
    "tone": -4.55
   },
   {
-   "id": 116,
-   "rank": 116,
+   "id": 115,
+   "rank": 115,
    "tier": 1,
    "title": "Israel election: what we know so far",
    "description": "Revised exit polls suggest a tie between Benjamin Netanyahu’s ruling coalition and Gadi Eisenkot’s opposition bloc, plus marked gains by Palestinian parties",
@@ -2742,8 +2718,8 @@
    "tone": 0.0
   },
   {
-   "id": 117,
-   "rank": 117,
+   "id": 116,
+   "rank": 116,
    "tier": 1,
    "title": "S.C. Senator Josh Kimbrell Faces Default Judgment",
    "description": "Following repeated discovery violations, a Greenville County judge has struck the lawmaker's responses in a contentious business fraud lawsuit...",
@@ -2765,8 +2741,8 @@
    "tone": -7.11
   },
   {
-   "id": 118,
-   "rank": 118,
+   "id": 117,
+   "rank": 117,
    "tier": 1,
    "title": "Standing charges to be axed from gas bills next year, Healey says on Budget day",
    "description": "The charges are a fixed daily fee added to bills.",
@@ -2788,8 +2764,8 @@
    "tone": -2.51
   },
   {
-   "id": 119,
-   "rank": 119,
+   "id": 118,
+   "rank": 118,
    "tier": 1,
    "title": "Oscar-nominated Iranian director Jafar Panahi gets five-year jail",
    "description": "According to Mansour, Mostafa Nili, Jafar Panahi’s lawyer, reported that his client’s bank accounts were frozen last week.",
@@ -2811,8 +2787,8 @@
    "tone": -5.67
   },
   {
-   "id": 120,
-   "rank": 120,
+   "id": 119,
+   "rank": 119,
    "tier": 1,
    "title": "Alex Pretti's parents say federal government is shielding agents involved in his killing",
    "description": "MINNEAPOLIS (AP) — The parents of intensive care nurse Alex Pretti said Tuesday the federal government is shielding the immigration enforcement officers involved in their son",
@@ -2835,8 +2811,8 @@
    "tone": -3.93
   },
   {
-   "id": 121,
-   "rank": 121,
+   "id": 120,
+   "rank": 120,
    "tier": 1,
    "title": "Should data centers do more to pay their way? Stein backs new rules on electrical bills",
    "description": "A deal between tech companies building data centers, and Duke Energy which provides most of North Carolina's electricity, is before the state Utilities Commission. Governor Josh Stein said North Carolina it's a start but is too friendly to the industry, and doesn't do enough to protect residents.",
@@ -2858,8 +2834,8 @@
    "tone": 2.88
   },
   {
-   "id": 122,
-   "rank": 122,
+   "id": 121,
+   "rank": 121,
    "tier": 1,
    "title": "Parents of Alex Pretti say feds are ignoring them and 'shielding Alex's killers'",
    "description": "Michael and Susan Pretti, along with their lawyer, call for justice and evidence sharing",
@@ -2882,8 +2858,8 @@
    "tone": -1.74
   },
   {
-   "id": 123,
-   "rank": 123,
+   "id": 122,
+   "rank": 122,
    "tier": 1,
    "title": "What to know about Israel's election results as votes are counted with no clear winner",
    "description": "No clear winner has emerged in the vote-counting in Israel’s national elections, and weeks of negotiations may lie ahead as an array of parties seeking to unseat Prime Minister Benjamin",
@@ -2906,8 +2882,8 @@
    "tone": -3.09
   },
   {
-   "id": 124,
-   "rank": 124,
+   "id": 123,
+   "rank": 123,
    "tier": 1,
    "title": "Shooting victim’s gangland link revealed",
    "description": "A man shot dead outside a Melbourne home has been identified as the father of a figure linked to one of Australia’s most notorious criminal empires.",
@@ -2929,8 +2905,8 @@
    "tone": -3.6
   },
   {
-   "id": 125,
-   "rank": 125,
+   "id": 124,
+   "rank": 124,
    "tier": 1,
    "title": "Knife attacker killed outside Israeli embassy in Serbia",
    "description": "Serbian police have shot dead a knife-wielding assailant who attacked a guard outside the Israeli embassy in Belgrade.",
@@ -2953,8 +2929,8 @@
    "tone": -7.21
   },
   {
-   "id": 126,
-   "rank": 126,
+   "id": 125,
+   "rank": 125,
    "tier": 1,
    "title": "Testimony begins in trial of Myrtle Beach man accused of killing girlfriend",
    "description": "The first day of testimony in the trial of a Myrtle Beach man accused of killing his girlfriend has concluded.",
@@ -2977,8 +2953,8 @@
    "tone": -4.52
   },
   {
-   "id": 127,
-   "rank": 127,
+   "id": 126,
+   "rank": 126,
    "tier": 1,
    "title": "CNN WIRE &#8212; Feds accused of shielding Pretti&#8217;s killers",
    "description": "By Meridith Edwards, Whitney Wild, CNN (CNN) — The parents of Alex Pretti, a US citizen shot and killed by",
@@ -3001,8 +2977,8 @@
    "tone": -3.79
   },
   {
-   "id": 128,
-   "rank": 128,
+   "id": 127,
+   "rank": 127,
    "tier": 1,
    "title": "ADMM-Plus: Rajnath Singh holds bilateral talks with Australian counterpart Richard Marles",
    "description": "Defence Minister Rajnath Singh on Wednesday held a bilateral meeting with his Australian counterpart, Richard Marles, on the sidelines of the ASEAN Defence Ministers Meeting-Plus in Cebu. Both leaders discussed ongoing defence engagements, explored opportunities to further strengthen bilateral defence cooperation and exchanged views on regional security issues. Both leaders exchanged gifts as a ge",
@@ -3025,8 +3001,8 @@
    "tone": 2.58
   },
   {
-   "id": 129,
-   "rank": 129,
+   "id": 128,
+   "rank": 128,
    "tier": 1,
    "title": "Mammograms Find Cancer Early—but How Many Lives Are Saved?",
    "description": "Researchers are studying how many women had their lives saved by mammograms and how many experienced unnecessary treatment.",
@@ -3049,8 +3025,8 @@
    "tone": -5.15
   },
   {
-   "id": 130,
-   "rank": 130,
+   "id": 129,
+   "rank": 129,
    "tier": 1,
    "title": "What to know about serial killer Ted Bundy and his rampage of violence",
    "description": "Ted Bundy's rampage of violence spanned at least four years and left dozens of victims behind, including at least 30 women and girls who were killed — and several others",
@@ -3073,8 +3049,8 @@
    "tone": -6.96
   },
   {
-   "id": 131,
-   "rank": 131,
+   "id": 130,
+   "rank": 130,
    "tier": 1,
    "title": "IN PRINT: The 2026 midterm elections draw near; here’s what you need to know",
    "description": "“I voted” stickers will decorate voters in less than two weeks as Election Day projects shades of red and blue over the horizon. The 2026 midterm elections will take place on Nov. 3, marking the halfway point of President Donald Trump’s second term. Jeff Budziak, a political science professor and associate dean of the Potter...",
@@ -3097,8 +3073,8 @@
    "tone": -0.47
   },
   {
-   "id": 132,
-   "rank": 132,
+   "id": 131,
+   "rank": 131,
    "tier": 1,
    "title": "Harsh Mander: The unlikely redemption of the 13-year-old jailed for the murder of Graham Staines",
    "description": "After nearly a decade in jail, Chenchu Hansda was tormented by voices in his head. This is his story.",
@@ -3121,8 +3097,8 @@
    "tone": -6.09
   },
   {
-   "id": 133,
-   "rank": 133,
+   "id": 132,
+   "rank": 132,
    "tier": 1,
    "title": "The Ebola outbreak is breaking records -- and just marked a grim milestone",
    "description": "The current outbreak, first identified in the Democratic Republic of Congo, has now counted 10,000 patients and has spread with great speed. How can it be stopped?",
@@ -3145,8 +3121,8 @@
    "tone": -4.64
   },
   {
-   "id": 134,
-   "rank": 134,
+   "id": 133,
+   "rank": 133,
    "tier": 1,
    "title": "Alleged Bondi fraudster charged as gunman trial delayed",
    "description": "A man has been charged for allegedly making a false injury claim in the wake of the Bondi...",
@@ -3168,8 +3144,8 @@
    "tone": -14.93
   },
   {
-   "id": 135,
-   "rank": 135,
+   "id": 134,
+   "rank": 134,
    "tier": 1,
    "title": "FACT FOCUS: Kennedy's claim that Arabs 'don't produce science' meets a Nobel Prize reality check",
    "description": "WASHINGTON (AP) — Health and Human Services Secretary Robert F. Kennedy Jr.",
@@ -3192,8 +3168,8 @@
    "tone": 3.18
   },
   {
-   "id": 136,
-   "rank": 136,
+   "id": 135,
+   "rank": 135,
    "tier": 1,
    "title": "New minimum wage rates expected",
    "description": "The Chancellor is expected to announce new minimum wage rates in the Budget. Find out how much younger workers and those aged 21 and over could earn.",
@@ -3214,8 +3190,8 @@
    "tone": 1.09
   },
   {
-   "id": 137,
-   "rank": 137,
+   "id": 136,
+   "rank": 136,
    "tier": 1,
    "title": "Iran hails Tehran security talks as a step toward regional dialogue, and other Mideast news",
    "description": "Iran says a meeting with security officials from Saudi Arabia, Pakistan, and Turkey is a step toward dialogue and regional peace. Iran's Foreign Minister emphasizes that regional security should be",
@@ -3238,8 +3214,8 @@
    "tone": -2.95
   },
   {
-   "id": 138,
-   "rank": 138,
+   "id": 137,
+   "rank": 137,
    "tier": 1,
    "title": "US woman convicted of getting Islamic State training after becoming teen bride to a fighter",
    "description": "A New York woman whose father took her to Syria as a teenager and arranged her marriage to an Islamic State fighter was convicted Tuesday.",
@@ -3262,8 +3238,8 @@
    "tone": -6.77
   },
   {
-   "id": 139,
-   "rank": 139,
+   "id": 138,
+   "rank": 138,
    "tier": 1,
    "title": "2 teenagers arrested in connection with the killing of a 68-year-old Gastonia woman",
    "description": "One teenager arrested at Dulles International Airport while attempting to flee to Africa and another arrested in Upstate, South Carolina.",
@@ -3286,8 +3262,8 @@
    "tone": -6.25
   },
   {
-   "id": 140,
-   "rank": 140,
+   "id": 139,
+   "rank": 139,
    "tier": 1,
    "title": "Arizona Sen. Mark Kelly rallies Maine Democrats for Troy Jackson in Freeport",
    "description": "The former Navy pilot, astronaut and possible 2028 presidential candidate spoke at the Maine Beer Company about holding President Donald Trump accountable and helping working families.",
@@ -3310,8 +3286,8 @@
    "tone": 1.9
   },
   {
-   "id": 141,
-   "rank": 141,
+   "id": 140,
+   "rank": 140,
    "tier": 1,
    "title": "‘Pack a Sandwich’: The Financial Advice That Made the Internet Furious",
    "description": "Caleb Hammer's simple financial advice sparks online debate on saving and self-control.",
@@ -3332,8 +3308,8 @@
    "tone": 0.53
   },
   {
-   "id": 142,
-   "rank": 142,
+   "id": 141,
+   "rank": 141,
    "tier": 1,
    "title": "Teen suffering burns charged over shocking house fire",
    "description": "Detectives attached to a task force investigating youth crime networks have charged a boy with arson after a...",
@@ -3355,8 +3331,8 @@
    "tone": -5.06
   },
   {
-   "id": 143,
-   "rank": 143,
+   "id": 142,
+   "rank": 142,
    "tier": 1,
    "title": "Dr. Annie Andrews demands answers after report of $1.5M data center cash for Graham",
    "description": "On Tuesday, Andrews accused a pro-data center super PAC of putting another $1.5 million into ads supporting Graham.",
@@ -3375,6 +3351,30 @@
    "sources": 35,
    "score": 10.7506,
    "tone": -0.64
+  },
+  {
+   "id": 143,
+   "rank": 143,
+   "tier": 1,
+   "title": "Grand jury declines to indict Cassidy Hutchinson over Jan. 6 testimony",
+   "description": "It’s the latest setback in the Justice Department’s efforts to charge perceived adversaries of President Donald Trump.",
+   "url": "https://www.nbcdfw.com/news/national-international/grand-jury-declines-indict-cassidy-hutchinson-over-jan-6-testimony/4096643/",
+   "domain": "nbcdfw.com",
+   "image": "https://media.nbcdfw.com/2026/10/CASSIDY-HUTCHINSON.jpg?quality=85&strip=all&resize=1200%2C675",
+   "lat": 38.8951,
+   "lng": -77.0364,
+   "location": "White House, District of Columbia, United States",
+   "country": "US",
+   "category": "Diplomacy",
+   "actors": [
+    "United States",
+    "Attorney",
+    "Prosecutor"
+   ],
+   "articles": 38,
+   "sources": 33,
+   "score": 10.7163,
+   "tone": -4.31
   },
   {
    "id": 144,
